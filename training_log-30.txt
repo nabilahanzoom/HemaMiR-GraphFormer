@@ -1,0 +1,170 @@
+==== MiRNA Disease Transformer Training Started ====
+Train samples: 664
+Validation samples: 222
+Tokenizer saved.
+Using device: cpu
+
+Epoch 1/30
+Train Loss: 2.8700
+Validation Loss: 2.4523
+Validation Disease Accuracy: 0.4009
+Validation Context Accuracy: 0.6306
+Best model saved.
+
+Epoch 2/30
+Train Loss: 2.0349
+Validation Loss: 2.0627
+Validation Disease Accuracy: 0.5315
+Validation Context Accuracy: 0.6937
+Best model saved.
+
+Epoch 3/30
+Train Loss: 1.6579
+Validation Loss: 1.8930
+Validation Disease Accuracy: 0.5856
+Validation Context Accuracy: 0.6892
+Best model saved.
+
+Epoch 4/30
+Train Loss: 1.4100
+Validation Loss: 1.7863
+Validation Disease Accuracy: 0.6081
+Validation Context Accuracy: 0.6982
+Best model saved.
+
+Epoch 5/30
+Train Loss: 1.2214
+Validation Loss: 1.7298
+Validation Disease Accuracy: 0.6306
+Validation Context Accuracy: 0.7207
+Best model saved.
+
+Epoch 6/30
+Train Loss: 1.0832
+Validation Loss: 1.6551
+Validation Disease Accuracy: 0.6306
+Validation Context Accuracy: 0.7252
+Best model saved.
+
+Epoch 7/30
+Train Loss: 0.9611
+Validation Loss: 1.6123
+Validation Disease Accuracy: 0.6577
+Validation Context Accuracy: 0.7523
+Best model saved.
+
+Epoch 8/30
+Train Loss: 0.8757
+Validation Loss: 1.6111
+Validation Disease Accuracy: 0.6532
+Validation Context Accuracy: 0.6982
+Best model saved.
+
+Epoch 9/30
+Train Loss: 0.7754
+Validation Loss: 1.5593
+Validation Disease Accuracy: 0.6486
+Validation Context Accuracy: 0.7027
+Best model saved.
+
+Epoch 10/30
+Train Loss: 0.7043
+Validation Loss: 1.5908
+Validation Disease Accuracy: 0.6712
+Validation Context Accuracy: 0.7162
+Early stopping counter: 1/5
+
+Epoch 11/30
+Train Loss: 0.6536
+Validation Loss: 1.5376
+Validation Disease Accuracy: 0.6712
+Validation Context Accuracy: 0.7387
+Best model saved.
+
+Epoch 12/30
+Train Loss: 0.5996
+Validation Loss: 1.5484
+Validation Disease Accuracy: 0.6667
+Validation Context Accuracy: 0.7477
+Early stopping counter: 1/5
+
+Epoch 13/30
+Train Loss: 0.5548
+Validation Loss: 1.5800
+Validation Disease Accuracy: 0.6712
+Validation Context Accuracy: 0.7387
+Early stopping counter: 2/5
+
+Epoch 14/30
+Train Loss: 0.5249
+Validation Loss: 1.5507
+Validation Disease Accuracy: 0.6937
+Validation Context Accuracy: 0.7477
+Early stopping counter: 3/5
+
+Epoch 15/30
+Train Loss: 0.4823
+Validation Loss: 1.5391
+Validation Disease Accuracy: 0.6937
+Validation Context Accuracy: 0.7477
+Early stopping counter: 4/5
+
+Epoch 16/30
+Train Loss: 0.4488
+Validation Loss: 1.5327
+Validation Disease Accuracy: 0.6982
+Validation Context Accuracy: 0.7432
+Best model saved.
+
+Epoch 17/30
+Train Loss: 0.4353
+Validation Loss: 1.5371
+Validation Disease Accuracy: 0.6892
+Validation Context Accuracy: 0.7477
+Early stopping counter: 1/5
+
+Epoch 18/30
+Train Loss: 0.4243
+Validation Loss: 1.5258
+Validation Disease Accuracy: 0.7027
+Validation Context Accuracy: 0.7387
+Best model saved.
+
+Epoch 19/30
+Train Loss: 0.4078
+Validation Loss: 1.5432
+Validation Disease Accuracy: 0.6847
+Validation Context Accuracy: 0.7477
+Early stopping counter: 1/5
+
+Epoch 20/30
+Train Loss: 0.3958
+Validation Loss: 1.5414
+Validation Disease Accuracy: 0.7027
+Validation Context Accuracy: 0.7432
+Early stopping counter: 2/5
+
+Epoch 21/30
+Train Loss: 0.3902
+Validation Loss: 1.5525
+Validation Disease Accuracy: 0.6802
+Validation Context Accuracy: 0.7477
+Early stopping counter: 3/5
+
+Epoch 22/30
+Train Loss: 0.3799
+Validation Loss: 1.5539
+Validation Disease Accuracy: 0.6802
+Validation Context Accuracy: 0.7432
+Early stopping counter: 4/5
+
+Epoch 23/30
+Train Loss: 0.3611
+Validation Loss: 1.5578
+Validation Disease Accuracy: 0.6802
+Validation Context Accuracy: 0.7432
+Early stopping counter: 5/5
+Early stopping triggered.
+
+Training Finished.
+Best model saved at saved_models/best_model.pth

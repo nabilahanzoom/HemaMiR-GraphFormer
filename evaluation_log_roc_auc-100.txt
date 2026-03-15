@@ -1,0 +1,48 @@
+==== MODEL EVALUATION STARTED ====
+Test samples: 222
+Disease classes: 15
+Context classes: 2
+Tokenizer loaded.
+Model loaded on device: cpu
+
+==============================
+DISEASE RESULTS
+==============================
+Amyotrophic Lateral Sclerosis - Precision: 0.7500, Recall: 0.7500, F1-score: 0.7500
+Brain Neoplasms      - Precision: 0.3333, Recall: 1.0000, F1-score: 0.5000
+Cholangiocarcinoma   - Precision: 0.5000, Recall: 0.5714, F1-score: 0.5333
+Esophageal Neoplasms - Precision: 0.6667, Recall: 0.5000, F1-score: 0.5714
+Glioblastoma         - Precision: 0.7500, Recall: 0.3750, F1-score: 0.5000
+Glioma               - Precision: 0.7000, Recall: 0.8750, F1-score: 0.7778
+Hematologic Neoplasms - Precision: 0.3333, Recall: 0.3333, F1-score: 0.3333
+Leukemia             - Precision: 0.8214, Recall: 0.6571, F1-score: 0.7302
+Lung Neoplasms       - Precision: 0.8043, Recall: 0.8409, F1-score: 0.8222
+Lymphoma             - Precision: 0.6757, Recall: 0.7143, F1-score: 0.6944
+Medulloblastoma      - Precision: 0.7143, Recall: 0.4545, F1-score: 0.5556
+Multiple Myeloma     - Precision: 0.7500, Recall: 1.0000, F1-score: 0.8571
+Neuroblastoma        - Precision: 0.3846, Recall: 0.8333, F1-score: 0.5263
+Osteosarcoma         - Precision: 0.7778, Recall: 0.6667, F1-score: 0.7179
+Rectal Neoplasms     - Precision: 0.6667, Recall: 0.5714, F1-score: 0.6154
+
+------ Overall Disease Metrics ------
+Accuracy : 0.7027
+Precision : 0.7236
+Recall : 0.7027
+F1-score : 0.7011
+ROC-AUC : 0.9542
+
+==============================
+CONTEXT RESULTS
+==============================
+blood_cancer         - Precision: 0.6512, Recall: 0.6364, F1-score: 0.6437
+non_blood_cancer     - Precision: 0.7647, Recall: 0.7761, F1-score: 0.7704
+
+------ Overall Context Metrics ------
+Accuracy : 0.7207
+Precision : 0.7197
+Recall : 0.7207
+F1-score : 0.7202
+ROC-AUC : 0.8075
+Figures saved in figures folder
+
+==== EVALUATION COMPLETED SUCCESSFULLY ====

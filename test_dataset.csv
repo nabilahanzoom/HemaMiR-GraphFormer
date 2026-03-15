@@ -1,0 +1,278 @@
+Disease_name,miRNA,sequence,genes,label,context
+Neuroblastoma,hsa-mir-34c,AGGCAGUGUAGUUAGCUGAUUGC,MYCN,0,non_blood_cancer
+Leukemia,hsa-mir-18a,UAAGGUGCAUCUAGUGCAGAUAG,HMGCS1,1,blood_cancer
+Medulloblastoma,hsa-mir-222,AGCUACAUCUGGCUACUGGGU,CDK6,0,non_blood_cancer
+Leukemia,hsa-mir-125b,UCCCUGAGACCCUAACUUGUGA,BMF,1,blood_cancer
+Lymphoma,hsa-mir-139,UCUACAGUGCACGUGUCUCCAGU,BCL2,1,blood_cancer
+Leukemia,hsa-mir-99a,AACCCGUAGAUCCGAUCUUGUG,NOX4,1,blood_cancer
+Lung Neoplasms,hsa-mir-132,UAACAGUCUACAGCCAUGGUCG,CDKN1A,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-19a,UGUGCAAAUCUAUGCAAAACUGA,FOS,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-27a,UUCACAGUGGCUAAGUUCCGC,CYP1B1,0,non_blood_cancer
+Lymphoma,hsa-mir-16,UAGCAGCACGUAAAUAUUGGCG,BCL2,1,blood_cancer
+Medulloblastoma,hsa-mir-183,GUGAAUUACCGAAGGGCCAUAA,MSH2,0,non_blood_cancer
+Lymphoma,hsa-mir-363,AAUUGCACGGUAUCCAUCUGUA,NRAS,1,blood_cancer
+Lung Neoplasms,hsa-mir-98,UGAGGUAGUAAGUUGUAUUGUU,CDKN1A,0,non_blood_cancer
+Glioma,hsa-mir-222,CUCAGUAGCCAGUGUAGAUCCU,FGF2,0,non_blood_cancer
+Osteosarcoma,hsa-mir-34b,UAGGCAGUGUCAUUAGCUGAUUG,MYC,0,non_blood_cancer
+Amyotrophic Lateral Sclerosis,hsa-mir-124,UCAGAUGAUCUAAAGGCCUAUA,MOBP,0,non_blood_cancer
+Lymphoma,hsa-mir-194,UGUAACAGCAACUCCAUGUGGA,TP53,1,blood_cancer
+Lymphoma,hsa-mir-222,AGCUACAUCUGGCUACUGGGU,MDM2,1,blood_cancer
+Amyotrophic Lateral Sclerosis,hsa-mir-146b,UGAGAACUGAAUUCCAUAGGCUG,ERBB4,0,non_blood_cancer
+Cholangiocarcinoma,hsa-mir-17,CAAAGUGCUUACAGUGCAGGUAG,PRKACB,0,non_blood_cancer
+Osteosarcoma,hsa-mir-218,UUGUGCUUGAUCUAACCAUGU,RUNX2,0,non_blood_cancer
+Lymphoma,hsa-mir-1,UGGAAUGUAAAGAAGUAUGUAU,PAX7,1,blood_cancer
+Lung Neoplasms,hsa-mir-520b,CCUCUACAGGGAAGCGCUUUC,CCND1,0,non_blood_cancer
+Neuroblastoma,hsa-mir-200a,UAACACUGUCUGGUAACGAUGU,YAP1,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-766,AGGAGGAAUUGGUGCUGGUCUU,SFN,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-139,UCUACAGUGCACGUGUCUCCAGU,HLA-A,1,blood_cancer
+Leukemia,hsa-mir-125a,UCCCUGAGACCCUUUAACCUGUGA,NUP210,1,blood_cancer
+Leukemia,hsa-mir-125a,UCCCUGAGACCCUUUAACCUGUGA,ACHE,1,blood_cancer
+Leukemia,hsa-mir-125a,UCCCUGAGACCCUUUAACCUGUGA,BAK1,1,blood_cancer
+Lung Neoplasms,hsa-mir-93,CAAAGUGCUGUUCGUGCAGGUAG,STK11,0,non_blood_cancer
+Leukemia,hsa-mir-125a,UCCCUGAGACCCUUUAACCUGUGA,TMEM135,1,blood_cancer
+Leukemia,hsa-mir-146a, UGAGAACUGAAUUCCAUGGGUU,NUMB,1,blood_cancer
+Brain Neoplasms,hsa-mir-34a,UGGCAGUGUCUUAGCUGGUUGU,TGM2,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-152,UCAGUGCAUGACAGAACUUGG,CCND1,1,blood_cancer
+Lymphoma,hsa-mir-26a,UUCAAGUAAUCCAGGAUAGGCU,MDM2,1,blood_cancer
+Leukemia,hsa-mir-125a,UCCCUGAGACCCUUUAACCUGUGA,BLZF1,1,blood_cancer
+Lung Neoplasms,hsa-mir-629,GUUCUCCCAACGUAAGCCCAGC,NFYA,0,non_blood_cancer
+Lymphoma,hsa-mir-181a,AACAUUCAACGCUGUCGGUGAGU,NRAS,1,blood_cancer
+Esophageal Neoplasms,hsa-mir-34c,AGGCAGUGUAGUUAGCUGAUUGC,TGFBR2,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-92a-2,GGGUGGGGAUUUGUUGCAUUAC,SFN,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-24,UGGCUCAGUUCAGCAGGAACAG,PRDX6,0,non_blood_cancer
+Lymphoma,hsa-mir-200b,UAAUACUGCCUGGUAAUGAUGA,BCL2,1,blood_cancer
+Hematologic Neoplasms,hsa-mir-124,UAAGGCACGCGGUGAAUGCCAA,NRAS,1,blood_cancer
+Rectal Neoplasms,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,MCC,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-96,UUUGGCACUAGCACAUUUUUGCU,BCL2,1,blood_cancer
+Multiple Myeloma,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,CCND1,1,blood_cancer
+Medulloblastoma,hsa-mir-183,GUGAAUUACCGAAGGGCCAUAA,CDK6,0,non_blood_cancer
+Glioma,hsa-mir-155,AACUGGCCCUCAAAGUCCCGCU,MYLK,0,non_blood_cancer
+Osteosarcoma,hsa-mir-340,UCCGUCUCAGUUACUUUAUAGC,LMNA,0,non_blood_cancer
+Lymphoma,hsa-mir-135b,UAUGGCUUUUCAUUCCUAUGUGA,RUNX2,1,blood_cancer
+Multiple Myeloma,hsa-mir-23b, AUCACAUUGCCAGGGAUUACCAC,BCL2L1,1,blood_cancer
+Cholangiocarcinoma,hsa-mir-200c,UAAUACUGCCGGGUAAUGAUGGA,BAP1,0,non_blood_cancer
+Lymphoma,hsa-mir-142,UGUAGUGUUUCCUACUUUAUGGA,TWF1,1,blood_cancer
+Brain Neoplasms,hsa-mir-106b,UAAAGUGCUGACAGUGCAGAU,VEGFA,0,non_blood_cancer
+Leukemia,hsa-mir-150,UCUCCCAACCCUUGUACCAGUG,ADIPOR2,1,blood_cancer
+Neuroblastoma,hsa-mir-424,CAGCAGCAAUUCAUGUUUUGAA,YAP1,0,non_blood_cancer
+Glioma,hsa-mir-181a,AACAUUCAACGCUGUCGGUGAGU,PTEN,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-139,UCUACAGUGCACGUGUCUCCAGU,MCL1,1,blood_cancer
+Amyotrophic Lateral Sclerosis,hsa-mir-27b,UUCACAGUGGCUAAGUUCUGC,TARDBP,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-223,UGUCAGUUUGUCAAAUACCCCA,TP53,0,non_blood_cancer
+Medulloblastoma,hsa-mir-183,GUGAAUUACCGAAGGGCCAUAA,BRD3,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-93,CAAAGUGCUGUUCGUGCAGGUAG,ACTB,0,non_blood_cancer
+Lymphoma,hsa-mir-135b,UAUGGCUUUUCAUUCCUAUGUGA,NR3C2,1,blood_cancer
+Hematologic Neoplasms,hsa-mir-223,UGUCAGUUUGUCAAAUACCCCA,ETV6,1,blood_cancer
+Lung Neoplasms,hsa-mir-200a,UAACACUGUCUGGUAACGAUGU,GATA6,0,non_blood_cancer
+Osteosarcoma,hsa-mir-29b,UAGCACCAUUUGAAAUCAGUGUU,MDM2,0,non_blood_cancer
+Osteosarcoma,hsa-mir-195,UAGCAGCACAGAAAUAUUGGC,RUNX2,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-139,UCUACAGUGCACGUGUCUCCAGU,MCL1,0,non_blood_cancer
+Glioma,hsa-mir-23a,AUCACAUUGCCAGGGAUUUCC,PTEN,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-30d,UGUAAACAUCCCCGACUGGAAG,BECN1,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-520b,CCUCUACAGGGAAGCGCUUUC,CDKN1A,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-34a,UGGCAGUGUCUUAGCUGGUUGU,TGM2,0,non_blood_cancer
+Leukemia,hsa-mir-125a,UCCCUGAGACCCUUUAACCUGUGA,SH3TC2,1,blood_cancer
+Osteosarcoma,hsa-mir-221,AGCUACAUUGUCUGCUGGGUUUC,RUNX2,0,non_blood_cancer
+Leukemia,hsa-mir-125b-1,ACGGGUUAGGCUCUUGGGAGCU,B4GALT5,1,blood_cancer
+Lung Neoplasms,hsa-mir-144,UACAGUAUAGAUGAUGUACU,MAP3K8,0,non_blood_cancer
+Leukemia,hsa-mir-139,UCUACAGUGCACGUGUCUCCAGU,USP6NL,1,blood_cancer
+Osteosarcoma,hsa-mir-200c,UAAUACUGCCGGGUAAUGAUGGA,BMI1,0,non_blood_cancer
+Osteosarcoma,hsa-mir-302b,UAAGUGCUUCCAUGUUUUAGUAG,EGFR,0,non_blood_cancer
+Osteosarcoma,hsa-mir-519d,CCUCCAAAGGGAAGCGCUUUCUGUU,RB1,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-23a,AUCACAUUGCCAGGGAUUUCC,ZNF99,1,blood_cancer
+Osteosarcoma,hsa-mir-200c,UAAUACUGCCGGGUAAUGAUGGA,VEGFA,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-625,AGGGGGAAAGUUCUAUAGUCC,CCND1,1,blood_cancer
+Multiple Myeloma,hsa-let-7c,UGAGGUAGUAGGUUGUAUGGUU,CCND1,1,blood_cancer
+Lung Neoplasms,hsa-mir-200a,UAACACUGUCUGGUAACGAUGU,BAP1,0,non_blood_cancer
+Leukemia,hsa-mir-143,UGAGAUGAAGCACUGUAGCUC,KRAS,1,blood_cancer
+Osteosarcoma,hsa-mir-335,UUUUUCAUUAUUGCUCCUGACC,MDM2,0,non_blood_cancer
+Leukemia,hsa-mir-125b-1,ACGGGUUAGGCUCUUGGGAGCU,MTF1,1,blood_cancer
+Lymphoma,hsa-mir-143,UGAGAUGAAGCACUGUAGCUC,XIAP,1,blood_cancer
+Glioma,hsa-mir-15b,AACUGGCCCUCAAAGUCCCGCU,FGF2,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-214,ACAGCAGGCACAGACAGGCAGU,LZTS1,0,non_blood_cancer
+Leukemia,hsa-mir-19a,UGUGCAAAUCUAUGCAAAACUGA,ESR1,1,blood_cancer
+Glioblastoma,hsa-mir-15a,CAGGCCAUAUUGUGCUGCCUCA,CDK6,0,non_blood_cancer
+Glioblastoma,hsa-let-7c,CUGUACAACCUUCUAGCUUUCC,KRAS,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-199b,CCCAGUGUUUAGACUAUCUGUUC,HES1,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-24,UGGCUCAGUUCAGCAGGAACAG,IL1B,0,non_blood_cancer
+Lymphoma,hsa-mir-125a,UCCCUGAGACCCUUUAACCUGUGA,BCL2,1,blood_cancer
+Lymphoma,hsa-mir-125a,UCCCUGAGACCCUUUAACCUGUGA,BMF,1,blood_cancer
+Lymphoma,hsa-mir-143,UGAGAUGAAGCACUGUAGCUC,ITM2B,1,blood_cancer
+Lung Neoplasms,hsa-mir-504,GGGAGUGCAGGGCAGGGUUUC,BIRC5,0,non_blood_cancer
+Medulloblastoma,hsa-mir-183,GUGAAUUACCGAAGGGCCAUAA,CTNNB1,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-30a,UGUAAACAUCCUCGACUGGAAG,EGFR,0,non_blood_cancer
+Glioblastoma,hsa-mir-130b,CAGUGCAAUGAUGAAAGGGCAU,JAG2,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-365a,UAAUGCCCCUAAAAAUCCUUAU,CCND1,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-18b,UAAGGUGCAUCUAGUGCAGUUAG,MAPK1,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-221,AGCUACAUUGUCUGCUGGGUUUC,NFYA,0,non_blood_cancer
+Glioblastoma,hsa-mir-130b,CAGUGCAAUGAUGAAAGGGCAU,TES,0,non_blood_cancer
+Osteosarcoma,hsa-mir-17,CAAAGUGCUUACAGUGCAGGUAG,TP53,0,non_blood_cancer
+Lymphoma,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,PTEN,1,blood_cancer
+Lymphoma,hsa-mir-142-3p, UGUAGUGUUUCCUACUUUAUGGA,RICTOR,1,blood_cancer
+Multiple Myeloma,hsa-mir-202,AGAGGUAUAGGGCAUGGGAA,SOD2,1,blood_cancer
+Lung Neoplasms,hsa-let-7d,AGAGGUAGUAGGUUGCAUAGUU,CCND1,0,non_blood_cancer
+Osteosarcoma,hsa-mir-124,UAAGGCACGCGGUGAAUGCCAA,RUNX2,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-182,UUUGGCAAUGGUAGAACUCACACU,PTEN,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-30a,UGUAAACAUCCUCGACUGGAAG,SLC7A5,0,non_blood_cancer
+Rectal Neoplasms,hsa-mir-133a,UUUGGUCCCCUUCAACCAGCUG,EGFR,0,non_blood_cancer
+Medulloblastoma,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,STAT3,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-486,UCCUGUACUGAGCUGCCCCGAG,PTEN,0,non_blood_cancer
+Lymphoma,hsa-mir-92a-1,AGGUUGGGAUCGGUUGCAAUGCU,TP53,1,blood_cancer
+Leukemia,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,ARID4B,1,blood_cancer
+Glioma,hsa-mir-214,ACAGCAGGCACAGACAGGCAGU,XBP1,0,non_blood_cancer
+Neuroblastoma,hsa-let-7b,UGAGGUAGUAGGUUGUGUGGUU,GNAS,0,non_blood_cancer
+Osteosarcoma,hsa-mir-491,AGUGGGGAACCCUUCCAUGAGG,TP53,0,non_blood_cancer
+Esophageal Neoplasms,hsa-let-7c,UGAGGUAGUAGGUUGUAUGGUU,CCND1,0,non_blood_cancer
+Lymphoma,hsa-mir-4736,AGGCAGGUUAUCUGGGCUG,TP53,1,blood_cancer
+Lung Neoplasms,hsa-mir-143,UGAGAUGAAGCACUGUAGCUC,FHIT,0,non_blood_cancer
+Neuroblastoma,hsa-mir-34b,UAGGCAGUGUCAUUAGCUGAUUG,MYCN,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-27a,UUCACAGUGGCUAAGUUCCGC,KRAS,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-330,UCUCUGGGCCUGUGUCUUAGGC,TP53,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,BCL2,1,blood_cancer
+Neuroblastoma,hsa-mir-15a,UAGCAGCACAUAAUGGUUUGUG,RASSF5,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,CCND1,0,non_blood_cancer
+Osteosarcoma,hsa-mir-519d,CCUCCAAAGGGAAGCGCUUUCUGUU,EIF2S1,0,non_blood_cancer
+Leukemia,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,STAT3,1,blood_cancer
+Lymphoma,hsa-mir-19a,UGUGCAAAUCUAUGCAAAACUGA,XIAP,1,blood_cancer
+Lung Neoplasms,hsa-mir-185,AGGGGCUGGCUUUCCUCUGGUC,GATA6,0,non_blood_cancer
+Amyotrophic Lateral Sclerosis,hsa-let-7b,UGAGGUAGUAGGUUGUGUGGUU,EPHA4,0,non_blood_cancer
+Lymphoma,hsa-mir-128,UCACAGUGAACCGGUCUCUUU,POGLUT1,1,blood_cancer
+Esophageal Neoplasms,hsa-mir-130a,CAGUGCAAUGUUAAAAGGGCAU,SOD2,0,non_blood_cancer
+Lymphoma,hsa-mir-494,UGAAACAUACACGGGAAACCUC,PTEN,1,blood_cancer
+Cholangiocarcinoma,hsa-mir-144,UACAGUAUAGAUGAUGUACU,PTEN,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-19a,UGUGCAAAUCUAUGCAAAACUGA,ESR1,1,blood_cancer
+Lung Neoplasms,hsa-mir-34a,UGGCAGUGUCUUAGCUGGUUGU,CCND1,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-155,UUAAUGCUAAUCGUGAUAGGGGUU,CCND1,1,blood_cancer
+Cholangiocarcinoma,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,PTEN,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-21,UAGCUUAUCAGACUGAUGUUGA,CCND1,0,non_blood_cancer
+Neuroblastoma,hsa-mir-335,UUUUUCAUUAUUGCUCCUGACC,NTRK2,0,non_blood_cancer
+Lymphoma,hsa-mir-20b,CAAAGUGCUCAUAGUGCAGGUAG,XIAP,1,blood_cancer
+Lung Neoplasms,hsa-mir-223,UGUCAGUUUGUCAAAUACCCCA,TP53,0,non_blood_cancer
+Glioblastoma,hsa-mir-17,CAAAGUGCUUACAGUGCAGGUAG,RUNX3,0,non_blood_cancer
+Lymphoma,hsa-mir-10b,UACCCUGUAGAACCGAAUUUGUG,XIAP,1,blood_cancer
+Lung Neoplasms,hsa-mir-504,GGGAGUGCAGGGCAGGGUUUC,MAPK1,0,non_blood_cancer
+Lymphoma,hsa-mir-26a,UUCAAGUAAUCCAGGAUAGGCU,NRAS,1,blood_cancer
+Medulloblastoma,hsa-mir-125b,UCCCUGAGACCCUAACUUGUGA,STAT3,0,non_blood_cancer
+Osteosarcoma,hsa-mir-519d,CCUCCAAAGGGAAGCGCUUUCUGUU,MDM2,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-520b,CCUCUACAGGGAAGCGCUUUC,EGFR,0,non_blood_cancer
+Leukemia,hsa-mir-139,UCUACAGUGCACGUGUCUCCAGU,EBF1,1,blood_cancer
+Lung Neoplasms,hsa-mir-29c,UAGCACCAUUUGAAAUCGGUUA,MCL1,0,non_blood_cancer
+Lymphoma,hsa-mir-143,UGAGAUGAAGCACUGUAGCUC,MDM2,1,blood_cancer
+Lung Neoplasms,hsa-mir-130a,CAGUGCAAUGUUAAAAGGGCAU,ADAM28,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-22,AAGCUGCCAGUUGAAGAACUGU,SLC7A5,0,non_blood_cancer
+Medulloblastoma,hsa-mir-106b,UAAAGUGCUGACAGUGCAGAU,APC,0,non_blood_cancer
+Osteosarcoma,hsa-mir-148a,UCAGUGCACUACAGAACUUUGU,NR1I2,0,non_blood_cancer
+Leukemia,hsa-mir-9,UCUUUGGUUAUCUAGCUGUAUGA,DOK6,1,blood_cancer
+Medulloblastoma,hsa-mir-148a,AAAGUUCUGAGACACUCCGACU,STAT3,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-30d,UGUAAACAUCCCCGACUGGAAG,KRAS,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-106b,UAAAGUGCUGACAGUGCAGAU,SOD2,0,non_blood_cancer
+Lymphoma,hsa-mir-200c,UAAUACUGCCGGGUAAUGAUGGA,XIAP,1,blood_cancer
+Brain Neoplasms,hsa-mir-17,CAAAGUGCUUACAGUGCAGGUAG,CCND1,0,non_blood_cancer
+Osteosarcoma,hsa-mir-212,UAACAGUCUCCAGUCACGGCC,MYC,0,non_blood_cancer
+Lymphoma,hsa-mir-224,UCAAGUCACUAGUGGUUCCGUUUAG,KRAS,1,blood_cancer
+Multiple Myeloma,hsa-mir-92a,UAUUGCACUUGUCCCGGCCUGU,ITGAV,1,blood_cancer
+Lung Neoplasms,hsa-mir-152,UCAGUGCAUGACAGAACUUGG,TFRC,0,non_blood_cancer
+Osteosarcoma,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,VEGFA,0,non_blood_cancer
+Hematologic Neoplasms,hsa-mir-18a,UAAGGUGCAUCUAGUGCAGAUAG,ATM,1,blood_cancer
+Leukemia,hsa-mir-125b,UCCCUGAGACCCUAACUUGUGA,SH3TC2,1,blood_cancer
+Multiple Myeloma,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,SOD2,1,blood_cancer
+Lung Neoplasms,hsa-mir-200a,UAACACUGUCUGGUAACGAUGU,GJA1,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-106b,UAAAGUGCUGACAGUGCAGAU,TP53,0,non_blood_cancer
+Hematologic Neoplasms,hsa-mir-372,AAAGUGCUGCGACAUUUGAGCGU,FANCA,1,blood_cancer
+Lung Neoplasms,hsa-mir-130a,CAGUGCAAUGUUAAAAGGGCAU,TGFBR2,0,non_blood_cancer
+Neuroblastoma,hsa-mir-1303,UUUAGAGACGGGGUCUUGCUCU,MET,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-34a,UGGCAGUGUCUUAGCUGGUUGU,CASP8,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-223,UGUCAGUUUGUCAAAUACCCCA,CCND1,0,non_blood_cancer
+Osteosarcoma,hsa-mir-30b,CUGGGAGGUGGAUGUUUACUUC,RUNX2,0,non_blood_cancer
+Lymphoma,hsa-mir-377,AUCACACAAAGGCAACUUUUGU,PTEN,1,blood_cancer
+Esophageal Neoplasms,hsa-mir-593,UGUCUCUGCUGGGGUUUCU,XIAP,0,non_blood_cancer
+Leukemia,hsa-mir-139,UCUACAGUGCACGUGUCUCCAGU,JUN,1,blood_cancer
+Lymphoma,hsa-mir-126,CAUUAUUACUUUUGGUACGCG,BCL2,1,blood_cancer
+Leukemia,hsa-mir-16-1,CCAGUAUUAACUGUGCUGCUGA,DENND6A,1,blood_cancer
+Glioma,hsa-mir-491,AGUGGGGAACCCUUCCAUGAGG,TP53,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-30b,UGUAAACAUCCUACACUCAGCU,BCL2,1,blood_cancer
+Osteosarcoma,hsa-mir-302b,UAAGUGCUUCCAUGUUUUAGUAG,EIF2S1,0,non_blood_cancer
+Leukemia,hsa-mir-146a, UGAGAACUGAAUUCCAUGGGUU,IRAK1,1,blood_cancer
+Lung Neoplasms,hsa-mir-34a,UGGCAGUGUCUUAGCUGGUUGU,NOTCH2,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-150,UCUCCCAACCCUUGUACCAGUG,MMP14,0,non_blood_cancer
+Multiple Myeloma,hsa-let-7e,UGAGGUAGGAGGUUGUAUAGUU,CCND1,1,blood_cancer
+Multiple Myeloma,hsa-mir-561,CAAAGUUUAAGAUCCUUGAAGU,SOD2,1,blood_cancer
+Leukemia,hsa-mir-17,ACUGCAGUGAAGGCACUUGUAG,DCLK1,1,blood_cancer
+Multiple Myeloma,hsa-mir-29a,UAGCACCAUCUGAAAUCGGUUA,MCL1,1,blood_cancer
+Rectal Neoplasms,hsa-mir-27a,UUCACAGUGGCUAAGUUCCGC,APC,0,non_blood_cancer
+Medulloblastoma,hsa-mir-135b,UAUGGCUUUUCAUUCCUAUGUGA,APC,0,non_blood_cancer
+Leukemia,hsa-mir-181a,AACAUUCAACGCUGUCGGUGAGU,ZNF268,1,blood_cancer
+Multiple Myeloma,hsa-mir-149,UCUGGCUCCGUGUCUUCACUCCC,HLA-A,1,blood_cancer
+Leukemia,hsa-mir-17,ACUGCAGUGAAGGCACUUGUAG,DICER1,1,blood_cancer
+Hematologic Neoplasms,hsa-mir-181a,AACAUUCAACGCUGUCGGUGAGU,NRAS,1,blood_cancer
+Glioblastoma,hsa-mir-17,CAAAGUGCUUACAGUGCAGGUAG,PIK3CA,0,non_blood_cancer
+Glioblastoma,hsa-mir-193a,AACUGGCCUACAAAGUCCCAGU,KRAS,0,non_blood_cancer
+Lymphoma,hsa-mir-664b,UGGGCUAAGGGAGAUGAUUGGGUA,MDM2,1,blood_cancer
+Lymphoma,hsa-mir-193b,AACUGGCCCUCAAAGUCCCGCU,RAC2,1,blood_cancer
+Lymphoma,hsa-mir-664b,UGGGCUAAGGGAGAUGAUUGGGUA,FBLN5,1,blood_cancer
+Cholangiocarcinoma,hsa-mir-199a,CCCAGUGUUCAGACUACCUGUUC,KRAS,0,non_blood_cancer
+Lymphoma,hsa-mir-17,CAAAGUGCUUACAGUGCAGGUAG,MDM2,1,blood_cancer
+Leukemia,hsa-mir-125b-2,UCACAAGUCAGGCUCUUGGGAC,EIF3A,1,blood_cancer
+Multiple Myeloma,hsa-mir-92a,UAUUGCACUUGUCCCGGCCUGU,CCND1,1,blood_cancer
+Lung Neoplasms,hsa-mir-152,UCAGUGCAUGACAGAACUUGG,KRAS,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-130b,CAGUGCAAUGAUGAAAGGGCAU,TGFBR2,0,non_blood_cancer
+Hematologic Neoplasms,hsa-mir-19a,UGUGCAAAUCUAUGCAAAACUGA,PIK3CA,1,blood_cancer
+Esophageal Neoplasms,hsa-mir-193a,AACUGGCCUACAAAGUCCCAGU,CCND1,0,non_blood_cancer
+Hematologic Neoplasms,hsa-mir-193b,AACUGGCCCUCAAAGUCCCGCU,FANCA,1,blood_cancer
+Esophageal Neoplasms,hsa-mir-766,AGGAGGAAUUGGUGCUGGUCUU,RUNX3,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-30d,UGUAAACAUCCCCGACUGGAAG,TP53,0,non_blood_cancer
+Leukemia,hsa-mir-125b-2,UCACAAGUCAGGCUCUUGGGAC,MED13L,1,blood_cancer
+Glioblastoma,hsa-mir-1908,CCGGCCGCCGGCUCCGCCCCG,H2AFX,0,non_blood_cancer
+Osteosarcoma,hsa-mir-194,CCAGUGGGGCUGCUGUUAUCUG,TP53,0,non_blood_cancer
+Amyotrophic Lateral Sclerosis,hsa-mir-342,AGGGGUGCUAUCUGUGAUUGA,PFN1,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-34b,UAGGCAGUGUCAUUAGCUGAUUG,MET,0,non_blood_cancer
+Lymphoma,hsa-mir-93,CAAAGUGCUGUUCGUGCAGGUAG,TWF1,1,blood_cancer
+Brain Neoplasms,hsa-mir-34a,UGGCAGUGUCUUAGCUGGUUGU,SIRT1,0,non_blood_cancer
+Neuroblastoma,hsa-mir-181c,AACAUUCAACCUGUCGGUGAGU,KRAS,0,non_blood_cancer
+Osteosarcoma,hsa-mir-29a,UAGCACCAUCUGAAAUCGGUUA,MMP2,0,non_blood_cancer
+Lymphoma,hsa-mir-142,UGUAGUGUUUCCUACUUUAUGGA,RICTOR,1,blood_cancer
+Lung Neoplasms,hsa-mir-134,UGUGACUGGUUGACCAGAGGGG,KRAS,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-34a,UGGCAGUGUCUUAGCUGGUUGU,TGFBR2,0,non_blood_cancer
+Cholangiocarcinoma,hsa-mir-224,AAAAUGGUGCCCUAGUGACUACA,SMAD4,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-125a,UCCCUGAGACCCUUUAACCUGUGA,MAPK14,0,non_blood_cancer
+Glioblastoma,hsa-mir-15a,CAGGCCAUAUUGUGCUGCCUCA,WT1,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-139,UCUACAGUGCACGUGUCUCCAGU,PIK3CA,0,non_blood_cancer
+Leukemia,hsa-mir-638,AGGGAUCGCGGGCGGGUGGCGGCCU,KLF7,1,blood_cancer
+Lung Neoplasms,hsa-mir-1226,UCACCAGCCCUGUGUUCCCUAG,FGFR1,0,non_blood_cancer
+Glioblastoma,hsa-mir-15a,CAGGCCAUAUUGUGCUGCCUCA,BHLHE40,0,non_blood_cancer
+Lymphoma,hsa-mir-20b,CAAAGUGCUCAUAGUGCAGGUAG,MDM2,1,blood_cancer
+Multiple Myeloma,hsa-mir-152,UCAGUGCAUGACAGAACUUGG,CDK19,1,blood_cancer
+Esophageal Neoplasms,hsa-mir-130a,CAGUGCAAUGUUAAAAGGGCAU,RUNX3,0,non_blood_cancer
+Osteosarcoma,hsa-mir-519d,CCUCCAAAGGGAAGCGCUUUCUGUU,MMP2,0,non_blood_cancer
+Brain Neoplasms,hsa-mir-19a,UAAAGUGCUUAUAGUGCAGGUAG,VEGFA,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-486,CGGGGCAGCUCAGUACAGGAU,ERBB2,0,non_blood_cancer
+Medulloblastoma,hsa-mir-124,UAAGGCACGCGGUGAAUGCCAA,CDK6,0,non_blood_cancer
+Glioblastoma,hsa-mir-125b-2,UCACAAGUCAGGCUCUUGGGAC,CSTB,0,non_blood_cancer
+Leukemia,hsa-mir-155,UUAAUGCUAAUCGUGAUAGGGGUU,BACH1,1,blood_cancer
+Leukemia,hsa-mir-20a,UAAAGUGCUUAUAGUGCAGGUAG,SAR1B,1,blood_cancer
+Leukemia,hsa-mir-17,ACUGCAGUGAAGGCACUUGUAG,MAML3,1,blood_cancer
+Leukemia,hsa-mir-125b-2,UCACAAGUCAGGCUCUUGGGAC,HNRNPU,1,blood_cancer
+Cholangiocarcinoma,hsa-mir-106a,CUGCAAUGUAAGCACUUCUUAC,PTEN,0,non_blood_cancer
+Esophageal Neoplasms,hsa-mir-150,UCUCCCAACCCUUGUACCAGUG,XIAP,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-9,UCUUUGGUUAUCUAGCUGUAUGA,MAPK1,0,non_blood_cancer
+Leukemia,hsa-mir-125b-1,ACGGGUUAGGCUCUUGGGAGCU,USP9X,1,blood_cancer
+Glioma,hsa-mir-124,UAAGGCACGCGGUGAAUGCCAA,CDKN2A,0,non_blood_cancer
+Multiple Myeloma,hsa-mir-152,UCAGUGCAUGACAGAACUUGG,HLA-A,1,blood_cancer
+Leukemia,hsa-mir-155,UUAAUGCUAAUCGUGAUAGGGGUU,OLFML3,1,blood_cancer
+Amyotrophic Lateral Sclerosis,hsa-let-7b,CUAUACAACCUACUGCCUUCCC,SOD2,0,non_blood_cancer
+Neuroblastoma,hsa-mir-204,UUCCCUUUGUCAUCCUAUGCCU,KRAS,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-185,AGGGGCUGGCUUUCCUCUGGUC,AKT1,0,non_blood_cancer
+Medulloblastoma,hsa-mir-21,UAGCUUAUCAGACUGAUGUUGA,DICER1,0,non_blood_cancer
+Lymphoma,hsa-mir-15a,UAGCAGCACAUAAUGGUUUGUG,BCL2,1,blood_cancer
+Leukemia,hsa-mir-139,UCUACAGUGCACGUGUCUCCAGU,SGCZ,1,blood_cancer
+Lung Neoplasms,hsa-mir-486,UCCUGUACUGAGCUGCCCCGAG,CDKN1A,0,non_blood_cancer
+Glioblastoma,hsa-mir-130b,CAGUGCAAUGAUGAAAGGGCAU,NOTCH2,0,non_blood_cancer
+Leukemia,hsa-mir-143,UGAGAUGAAGCACUGUAGCUC,GOLM1,1,blood_cancer
+Lung Neoplasms,hsa-mir-520b,CCUCUACAGGGAAGCGCUUUC,ESR1,0,non_blood_cancer
+Leukemia,hsa-mir-18a,UAAGGUGCAUCUAGUGCAGAUAG,HIF1A,1,blood_cancer
+Lymphoma,hsa-mir-92a-2,GGGUGGGGAUUUGUUGCAUUAC,MTHFR,1,blood_cancer
+Osteosarcoma,hsa-mir-106b,UAAAGUGCUGACAGUGCAGAU,VEGFA,0,non_blood_cancer
+Lung Neoplasms,hsa-mir-223,UGUCAGUUUGUCAAAUACCCCA,CCND1,0,non_blood_cancer
+Osteosarcoma,hsa-mir-215,AUGACCUAUGAAUUGACAGAC,RB1,0,non_blood_cancer
+Neuroblastoma,hsa-mir-124,UAAGGCACGCGGUGAAUGCCAA,PTPN14,0,non_blood_cancer
+Osteosarcoma,hsa-mir-34b,UAGGCAGUGUCAUUAGCUGAUUG,MET,0,non_blood_cancer
